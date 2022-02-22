@@ -1,2 +1,2 @@
-# rust-playgroung
+# rust-playground
 learning rust
